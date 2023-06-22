@@ -1,0 +1,152 @@
+[
+  {
+    "type": "Bangla",
+    "image": "https://i.ibb.co/wcy7K2Z/class-4.jpg",
+    "instructorName": "John Doe",
+    "instructorPhoto": "https://i.ibb.co/Gtc2C1B/man-1.webp",
+    "instructorEmail": "jane.smith@example.com",
+    "price": 50,
+    "availableSeats": 20,
+    "description":  "Join our Bangla language classes and immerse yourself in the rich culture and heritage of Bangladesh. Learn to speak, read, and write Bangla with the guidance of our experienced instructor, John Doe. This comprehensive course is designed for beginners and covers essential vocabulary, grammar, and conversational skills. Enroll now and embark on a journey to master the beautiful Bangla language."
+  },
+  {
+    "type": "Dutch",
+    "image": "https://i.ibb.co/28KVBqs/class-5.jpg",
+    "instructorName": "Jane Smith",
+    "instructorPhoto": "https://i.ibb.co/ggn74Kp/man-2.webp",
+    "instructorEmail": "jane.smith@example.com",
+    "price": 75,
+    "availableSeats": 5,
+    "description": "Discover the beauty of the Dutch language with our immersive Dutch class. Whether you're planning to visit the Netherlands or have a fascination for Dutch culture, this course will equip you with the necessary language skills. Jane Smith, our expert instructor, will guide you through interactive lessons, focusing on pronunciation, grammar, and vocabulary. Limited seats available, so secure your spot today!"
+  },
+  {
+    "type": "Spanish",
+    "image": "https://i.ibb.co/8sgptgt/class-6.jpg",
+    "instructorName": "Maria Gonzalez",
+    "instructorPhoto": "https://i.ibb.co/s94XHQ9/man-3.webp",
+    "instructorEmail": "maria.gonzalez@example.com",
+    "price": 60,
+    "availableSeats": 15,
+    "description": "Immerse yourself in the vibrant world of Spanish through our engaging language class. Our dedicated instructor, Maria Gonzalez, will introduce you to the melodious Spanish language and help you develop essential speaking and listening skills. From basic greetings to everyday conversations, this course covers it all. Don't miss this opportunity to unlock the door to the Spanish-speaking world!"
+  },
+  {
+    "type": "French",
+    "image": "https://i.ibb.co/Yb2yWQ2/class-7.jpg",
+    "instructorName": "Jean Dupont",
+    "instructorPhoto": "https://i.ibb.co/KbN8v36/man-4.webp",
+    "instructorEmail": "jean.dupont@example.com",
+    "price": 80,
+    "availableSeats": 10,
+    "description": "Our French language classes is the perfect way to explore the enchanting world of French culture and language. Under the guidance of Jean Dupont, a native French speaker, you will learn essential vocabulary, grammar rules, and conversational skills. From mastering the French accent to understanding French customs, this course will make you feel like a true Francophone. Enroll now and say 'Oui' to learning French!"
+  },
+  {
+    "type": "German",
+    "image": "https://i.ibb.co/vmyWV2P/class-8.jpg",
+    "instructorName": "Hans Schmidt",
+    "instructorPhoto": "https://i.ibb.co/kcJ19cB/man-5.webp",
+    "instructorEmail": "hans.schmidt@example.com",
+    "price": 70,
+    "availableSeats": 8,
+    "description": "Learn German, the language of poets and thinkers, with our immersive German class. Led by experienced instructor Hans Schmidt, this course will take you on a linguistic journey, teaching you German vocabulary, grammar, and pronunciation. From everyday conversations to exploring German literature, this comprehensive program will help you become fluent in German. Join us and open the door to new opportunities!"
+  },
+  {
+    "type": "Chinese",
+    "image": "https://i.ibb.co/xfzV1pv/class-9.jpg",
+    "instructorName": "Li Wei",
+    "instructorPhoto": "https://i.ibb.co/p2NHwh0/man-6.webp",
+    "instructorEmail": "li.wei@example.com",
+    "price": 55,
+    "availableSeats": 12,
+    "description": "Embark on an exciting adventure into the fascinating world of Chinese language and culture. In our Chinese class, instructed by Li Wei, you will learn Mandarin Chinese, the most widely spoken language in the world. Through interactive lessons and practical exercises, you will develop essential language skills and gain insights into Chinese traditions. Start your journey to mastering Chinese today!"
+  },
+  {
+    "type": "Japanese",
+    "image": "https://i.ibb.co/W3c3kBL/class-10.jpg",
+    "instructorName": "Taro Yamada",
+    "instructorPhoto": "https://i.ibb.co/6WjysmH/man-7.webp",
+    "instructorEmail": "taro.yamada@example.com",
+    "price": 65,
+    "availableSeats": 18,
+    "description": "Welcome to our Japanese language class. Dive into the captivating realm of Japanese culture and language with Taro Yamada as your guide. This course will help you learn Japanese vocabulary, grammar, and kanji characters. From mastering the polite forms of speech to understanding Japanese customs, you'll gain the skills needed for meaningful interactions in Japanese society. Enroll now and unlock the secrets of Japan!"
+  },
+  {
+    "type": "Italian",
+    "image": "https://i.ibb.co/C1rZZGY/class-11.jpg",
+    "instructorName": "Giuseppe Rossi",
+    "instructorPhoto": "https://i.ibb.co/0ZqkNxf/man-8.webp",
+    "instructorEmail": "giuseppe.rossi@example.com",
+    "price": 90,
+    "availableSeats": 7,
+    "description": "Immerse yourself in the melodious Italian language through our comprehensive Italian class. Guided by Giuseppe Rossi, a native Italian speaker, you'll learn to speak and understand Italian fluently. From mastering the Italian pronunciation to exploring the rich cultural heritage, this course offers a complete learning experience. Join us and experience la dolce vita!"
+  },
+  {
+    "type": "Russian",
+    "image": "https://i.ibb.co/12T6bZZ/class-12.jpg",
+    "instructorName": "Ivan Petrov",
+    "instructorPhoto": "https://i.ibb.co/k5ccgMQ/man-9.webp",
+    "instructorEmail": "ivan.petrov@example.com",
+    "price": 70,
+    "availableSeats": 9,
+    "description": "Discover the richness of the Russian language with our immersive Russian class. Led by experienced instructor Ivan Petrov, this course will introduce you to the Cyrillic alphabet, grammar rules, and essential vocabulary. Whether you're interested in Russian literature, planning to visit Russia, or want to connect with Russian-speaking friends, this course is the perfect choice. Enroll now and become fluent in Russian!"
+  },
+  {
+    "type": "Portuguese",
+    "image": "https://i.ibb.co/k9JsQXc/class-13.jpg",
+    "instructorName": "Maria Silva",
+    "instructorPhoto": "https://i.ibb.co/5cG37KQ/man-10.webp",
+    "instructorEmail": "maria.silva@example.com",
+    "price": 60,
+    "availableSeats": 14,
+    "description": "Immerse yourself in the melodious Portuguese language and embrace the vibrant culture of Portugal and Brazil. Our Portuguese language class, led by instructor Maria Silva, will equip you with the essential skills to communicate effectively in Portuguese. From basic greetings to engaging in conversations, this course offers a dynamic learning experience. Não perca esta oportunidade!"
+  },
+  {
+    "type": "Arabic",
+    "image": "https://i.ibb.co/rvdnyyc/class-14.jpg",
+    "instructorName": "Ahmed Khalid",
+    "instructorPhoto": "https://i.ibb.co/QkvqZNt/man-11.webp",
+    "instructorEmail": "ahmed.khalid@example.com",
+    "price": 80,
+    "availableSeats": 6,
+    "description": "Unlock the beauty of the Arabic language with our immersive Arabic class. Led by experienced instructor Ahmed Khalid, this course will guide you through the intricacies of Arabic grammar, vocabulary, and pronunciation. Whether you're interested in Modern Standard Arabic or specific dialects, this course will provide you with the foundations for effective communication. Enroll now and embark on a journey to master Arabic!"
+  },
+  {
+    "type": "Korean",
+    "image": "https://i.ibb.co/9Hwv0Kq/class-15.jpg",
+    "instructorName": "Kim Min-Ji",
+    "instructorPhoto": "https://i.ibb.co/YBJ5sKf/man-12.webp",
+    "instructorEmail": "kim.minji@example.com",
+    "price": 75,
+    "availableSeats": 11,
+    "description": "Explore the fascinating world of Korean language and culture through our immersive Korean class. Instructed by Kim Min-Ji, a native Korean speaker, this course will teach you essential vocabulary, grammar, and conversational skills. From mastering Hangul, the Korean alphabet, to engaging in everyday conversations, this course will help you become proficient in Korean. Join us and open doors to Korean culture!"
+  },
+  {
+    "type": "Swedish",
+    "image": "https://i.ibb.co/HqgJQSH/Englis.jpg",
+    "instructorName": "Erik Andersson",
+    "instructorPhoto": "https://i.ibb.co/J2zWBv3/man-13.webp",
+    "instructorEmail": "erik.andersson@example.com",
+    "price": 70,
+    "availableSeats": 10,
+    "description": "Learn Swedish, the language of innovation and creativity, through our engaging Swedish class. Erik Andersson, our experienced instructor, will guide you through lessons focused on vocabulary, grammar, and pronunciation. Whether you're planning to study, work, or travel in Sweden, this course will equip you with the language skills needed for effective communication. Anmäl dig nu och öppna dörren till svenska språket!"
+  },
+  {
+    "type": "Greek",
+    "image": "https://i.ibb.co/H7g7X2z/English.jpg",
+    "instructorName": "Sophia Papadopoulos",
+    "instructorPhoto": "https://i.ibb.co/7Wxzp4N/man-14.webp",
+    "instructorEmail": "sophia.papadopoulos@example.com",
+    "price": 65,
+    "availableSeats": 13,
+    "description": "Immerse yourself in the captivating world of Greek language and culture through our comprehensive Greek class. Led by instructor Sophia Papadopoulos, this course will introduce you to the Greek alphabet, essential vocabulary, and grammar rules. From engaging in Greek conversations to exploring the rich history of Greece, this course offers a holistic language learning experience."
+  },
+  {
+    "type": "Hindi",
+    "image": "https://i.ibb.co/qgGtLhQ/prann.jpg",
+    "instructorName": "Rajesh Patel",
+    "instructorPhoto": "https://i.ibb.co/hsPNLH1/man-15.webp",
+    "instructorEmail": "rajesh.patel@example.com",
+    "price": 55,
+    "availableSeats": 17,
+    "description": "Join our Hindi language classes and delve into the rich tapestry of Indian culture and heritage. Under the guidance of instructor Rajesh Patel, you will learn Hindi vocabulary, grammar, and script. From basic conversation skills to understanding Hindi literature and films, this course will enable you to communicate effectively in Hindi-speaking environments. Enroll now and let the magic of Hindi unfold before you!"
+  }
+]
